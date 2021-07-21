@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "DSCI 632 - Applied Cloud Computing"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Drexel University, MS in Data Science"
+date: Spring 2021
+location: "Philadelphia, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course was developed by myself and became a part of the MS in Data Science core curriculum in the 2020-2021 academic year.
