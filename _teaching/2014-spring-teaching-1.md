@@ -2,7 +2,7 @@
 title: "INFO 780 - Applied Cloud Computing"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2014-spring-teaching-1
 venue: "Drexel University, CCI"
 date: Spring 2020
 location: "Philadelphia, PA"
