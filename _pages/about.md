@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-Michal Monselise
-======
+
 I am a 4th year PhD candidate studying data science at Drexel University
 
 Research Interests
