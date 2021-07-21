@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Drexel University, MS in Data Science"
-date: Spring 2021
+date: 2021-01-01
 location: "Philadelphia, PA"
 ---
 

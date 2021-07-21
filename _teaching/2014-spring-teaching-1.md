@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Drexel University, CCI"
-date: Spring 2020
+date: 2020-01-01
 location: "Philadelphia, PA"
 ---
 
