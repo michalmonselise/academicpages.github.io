@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Mathematics, Baruch College - CUNY, 2007
+* M.S. in Applied Mathematics, DePaul University, 2010
+* Ph.D in Information Science, Drexel University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2017 - August 2018: Data Scientist
+  * Accretive Technology Group
+  * Worked on streaming recommendation algorithms
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* October 2015 - June 2018: Instructor and Course Assistant
+  * University of Washington's School of Continuing Education
+  * Instructor - Data Engineering certificate program
+  * Course Assistant - Data Science certificate program
+  
+
+* June 2014 - November 2017: Senior Data Scientist
+  * DS-IQ
+  * Worked on automated localized recommendations
+
+
+* August 2011 - May 2014: Teaching and Research Assistant
+  * University of Connecticut
+  * Taught Intro to Statistics I & II
+  * TA for various statistics courses
+  * Research Assistant at CHIP (Center for Health, Intervention, and Prevention)
+
+
+* January 2010 - May 2014: Math Designer
+  * GC2 Inc
+  * Created math models for the company's portfolio of slot machines
+  
+
 
 Publications
 ======
@@ -54,6 +64,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
