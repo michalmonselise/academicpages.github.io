@@ -10,7 +10,7 @@ citation: 'Monselise M, Chang C, Ferreira G, Yang R, Yang CC, Detecting Topics a
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://preprints.jmir.org/preprint/30765)
 
 Recommended citation:
 Monselise M, Chang C, Ferreira G, Yang R, Yang CC, Detecting Topics and Sentiments of Public Concerns on COVID-19 Vaccines with Social Media Trend Analysis, <i>Journal of Medical Internet Research. </i>
