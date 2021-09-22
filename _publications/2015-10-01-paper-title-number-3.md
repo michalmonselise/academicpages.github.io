@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Understanding the Social Support Exchange of a Pregnancy After Loss Online Support Group"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Existing literature on miscarriage support seldom focuses on women who are pregnant after a loss despite research showing that these women have different social support needs from the general population of women who have suffered a loss. In light of this, we investigated an online support group for women who are pregnant after suffering a previous pregnancy loss in this study. The study utilized social network analysis to analyze the interactions between women of different gestational stages. We distinguish between the two types of social support exchanged in the group: informational and nurturant support. The graph structure allows us to learn about the progression of giving and receiving support as users progress through the gestational stages. Our study shows that informational support is mostly given by women in the later stages of their pregnancy to women in earlier stages. Most of the gestational stages only transmit or receive informational support but not both. Emotional support contains more reciprocal relationships between the gestational stages. We also aim to learn about the support exchanged in the group by analyzing the n-cliques formed in the group. We discuss how the findings of this research point to the importance of second trimester users in the group. We identify second trimester users that tend to spur more discussion in the group by interacting with more users, posting more messages, and having higher degree centrality.'
+date: 2020-11-30
+venue: 'IEEE ICHI 2020'
+paperurl: 'https://ieeexplore.ieee.org/document/9374389'
+citation: 'M. Monselise and C. C. Yang, “Understanding the Social Support Exchange of a Pregnancy After Loss Online Support Group,” Proceedings of IEEE International Conference on Healthcare Informatics 2020, Oldenburg, Germany, November 30 – December 3, 2020.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Existing literature on miscarriage support seldom focuses on women who are pregnant after a loss despite research showing that these women have different social support needs from the general population of women who have suffered a loss. In light of this, we investigated an online support group for women who are pregnant after suffering a previous pregnancy loss in this study. The study utilized social network analysis to analyze the interactions between women of different gestational stages. We distinguish between the two types of social support exchanged in the group: informational and nurturant support. The graph structure allows us to learn about the progression of giving and receiving support as users progress through the gestational stages. Our study shows that informational support is mostly given by women in the later stages of their pregnancy to women in earlier stages. Most of the gestational stages only transmit or receive informational support but not both. Emotional support contains more reciprocal relationships between the gestational stages. We also aim to learn about the support exchanged in the group by analyzing the n-cliques formed in the group. We discuss how the findings of this research point to the importance of second trimester users in the group. We identify second trimester users that tend to spur more discussion in the group by interacting with more users, posting more messages, and having higher degree centrality.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9374389&casa_token=tVdHSVB8QKYAAAAA:rtOFwwW7_fQUgCQFvLaZ1LbRCZsjwpzskqsuYW8o1u32RhAPKinJ25_68Vk7B3H1_kCZiw24&tag=1)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: M. Monselise and C. C. Yang, “Understanding the Social Support Exchange of a Pregnancy After Loss Online Support Group,” Proceedings of IEEE International Conference on Healthcare Informatics 2020, Oldenburg, Germany, November 30 – December 3, 2020.
