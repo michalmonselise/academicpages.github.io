@@ -24,7 +24,7 @@ metrics, we can provide insight on how each type of information
 seeking differs for users of COVID-19 related online health
 communities as well as how social media networks can better serve their users in times of health uncertainty.'
 date: 2021-08-09
-venue: 'IEEE ICHI 2021'
+venue: 'IEEE ICHI'
 paperurl: 'http://www.ischool.drexel.edu/faculty/cyang/pub-c.html'
 citation: 'M. Monselise and C. C. Yang, “Information Exchange in Online Health Communities Discussing COVID-19,” Proceedings of IEEE International Conference on Healthcare Informatics 2021,, Victoria, BC, Canada, August 9 – 12, 2021.'
 ---
