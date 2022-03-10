@@ -21,6 +21,9 @@ Research Interests
 
 Recent Publications
 ------
+A. Jazayeri, <b>M. Monselise</b>, N. Jafari, N. Nikita, C.C. Yang, L.Y. Grace, "A Network-based Modeling Approach to Identify the Common Disease Classes in Patients with Late-stage Prostate Cancer", Proceedings of IEEE International Conference on Healthcare Informatics, Rochester, MN, 2022. 
+
+<b> M. Monselise </b>, C.C. Yang "I'm always in so much pain and no one will understand" - Detecting Patterns in Suicidal Ideation on Reddit, MAISoN Workshop,	WWW '22 Companion: The Web Conference 2022 Proceedings, 2022
 
 J. Greenberg, X. Zhao, <b>M. Monselise</b>, S. Grabus, and J. Boone, “Knowledge Organization Systems: A Network for AI with Helping Interdisciplinary Vocabulary Engineering,” Cataloging & Classification Quarterly, vol. 0, no. 0, pp. 1–20, 2021
 
