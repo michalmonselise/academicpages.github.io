@@ -10,17 +10,26 @@ redirect_from:
 
 
 
-I am a 4th year PhD candidate studying data science at Drexel University
+I am a senior data scientist at Ancera after completing my PhD at Drexel University.
+
 
 Research Interests
 ======
 1. Healthcare Informatics
-1. Distributed Systems
-1. Temporal Graphs
 1. Social Networks
+
+
+Recent News
+-----
+
+6/28/2023 - Won runner up for best paper award at IEEE-ICHI 2023.
+
+11/1/2022 - Started a position as a senior data scientist at Ancera.
 
 Recent Publications
 ------
+<b>M. Monselise</b>, C.C. Yang, "Leveraging Social Support Types and Link Prediction for User Recommendation for Online Health Community in Pregnancy After Loss", Proceedings of IEEE International Conference on Healthcare Informatics, Houston, TX, 2023.
+
 A. Jazayeri, <b>M. Monselise</b>, N. Jafari, N. Nikita, C.C. Yang, L.Y. Grace, "A Network-based Modeling Approach to Identify the Common Disease Classes in Patients with Late-stage Prostate Cancer", Proceedings of IEEE International Conference on Healthcare Informatics, Rochester, MN, 2022. 
 
 <b> M. Monselise </b>, C.C. Yang "I'm always in so much pain and no one will understand" - Detecting Patterns in Suicidal Ideation on Reddit, MAISoN Workshop,	WWW '22 Companion: The Web Conference 2022 Proceedings, 2022

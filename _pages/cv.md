@@ -13,10 +13,16 @@ Education
 ======
 * B.A. in Mathematics, Baruch College - CUNY, 2007
 * M.S. in Applied Mathematics, DePaul University, 2010
-* Ph.D in Information Science, Drexel University, 2022 (expected)
+* Ph.D in Information Science, Drexel University, 2023
 
 Work experience
 ======
+
+* November 2022 - Present
+  * Ancera
+  * Works on modeling of diseases in poultry
+  * Some NLP work
+
 * December 2017 - August 2018: Data Scientist
   * Accretive Technology Group
   * Worked on streaming recommendation algorithms
