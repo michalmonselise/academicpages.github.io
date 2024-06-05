@@ -24,6 +24,7 @@ Research Interests
 
 Recent News
 -----
+
 12/1/2023 - Started a position as a data scientist at TrustEngine.
 
 6/28/2023 - Won runner up for best paper award at IEEE-ICHI 2023.
@@ -32,6 +33,8 @@ Recent News
 
 Recent Publications
 ------
+<b>Monselise, M. </b>& Young, J. (2023). User Ownership of Content on Reddit: Examining the Impact of the Change in Developer Terms for Various Stakeholders. Multi-Stakeholder Privacy and Safety on Content Creation Platforms: A Workshop at DIS 2023. ACM DIS Conference on Designing Interactive Systems, 2023.
+
 <b>M. Monselise</b>, C.C. Yang, "Leveraging Social Support Types and Link Prediction for User Recommendation for Online Health Community in Pregnancy After Loss", Proceedings of IEEE International Conference on Healthcare Informatics, Houston, TX, 2023.
 
 A. Jazayeri, <b>M. Monselise</b>, N. Jafari, N. Nikita, C.C. Yang, L.Y. Grace, "A Network-based Modeling Approach to Identify the Common Disease Classes in Patients with Late-stage Prostate Cancer", Proceedings of IEEE International Conference on Healthcare Informatics, Rochester, MN, 2022. 
