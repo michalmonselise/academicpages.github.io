@@ -10,17 +10,21 @@ redirect_from:
 
 
 
-I am a senior data scientist at Ancera after completing my PhD at Drexel University.
+I am a data scientist at TrustEngine after completing my PhD at Drexel University.
+I also contribute to HCI research at Drexel University under the guidance of Dr. Afsaneh Razi.
 
 
 Research Interests
 ======
 1. Healthcare Informatics
 1. Social Networks
+1. Computational Social Science
+1. HCI
 
 
 Recent News
 -----
+12/1/2023 - Started a position as a data scientist at TrustEngine.
 
 6/28/2023 - Won runner up for best paper award at IEEE-ICHI 2023.
 

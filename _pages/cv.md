@@ -18,10 +18,15 @@ Education
 Work experience
 ======
 
-* November 2022 - Present
+* December 2023 - Present
+  * TrustEngine
+  * First Data Science hire for the company
+  * Works on building DS infrastructure and selecting the best modeling approaches for the company's data
+
+* November 2022 - December 2023
   * Ancera
-  * Works on modeling of diseases in poultry
-  * Some NLP work
+  * Worked on modeling of diseases in poultry
+  * Performed NLP work, primarily investigated integrating LLMs into poultry analytics
 
 * December 2017 - August 2018: Data Scientist
   * Accretive Technology Group
